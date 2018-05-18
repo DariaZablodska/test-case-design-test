@@ -19,7 +19,7 @@ The behavior of a component can be described by the business logic
 
 ----------------------------------------------------------------------------------
 HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
-1. Either clone (but do **NOT** fork, applicants who fork run the risk of being rejected out of hand) using Git
+1. Either clone (but do **NOT** fork) using Git
      1. Install Git to your local system
      2. Go to https://github.com and sign in (create an account if you don't have one)
      3. Go to https://github.com/dynamiccredit-qa/test-case-design-test
