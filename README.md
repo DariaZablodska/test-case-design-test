@@ -32,6 +32,7 @@ HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
 
 ----------------------------------------------------------------------------------
 HANDING IN THE TEST RESULTS:
+
 There are two ways to hand in the exercise:
 1. Either commit your solution to a GitHub repository of your own (preferred):
      1. Commit your solution to the test to your local Git repository
