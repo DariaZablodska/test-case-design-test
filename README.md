@@ -15,4 +15,4 @@ The behavior of a component can be described by the business logic
 - If a number card has an odd number half the base value
 
 1. Work out the Decision Table which represents this behavior
-2. Work out a set of physical test cases which would cover the scenarios worked out in 1.
+2. Work out a set of physical test cases which would cover the scenarios derived in 1.
