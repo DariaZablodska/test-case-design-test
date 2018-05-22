@@ -23,8 +23,8 @@ HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
      1. Install Git to your local system
      2. Go to https://github.com and sign in (create an account if you don't have one)
      3. Go to https://github.com/dynamiccredit-qa/test-case-design-test
-     2. Click on the green-colored 'Clone or Download' button
-     6. Use the provided .git URL to clone the repository to your local system with the installed Git client (again: do **NOT** fork)
+     4. Click on the green-colored 'Clone or Download' button
+     5. Use the provided .git URL to clone the repository to your local system with the installed Git client (again: do **NOT** fork)
 2. Or download
      1. Go to https://github.com/dynamiccredit-qa/test-case-design-test
      2. Click on the green-colored 'Clone or Download' button
