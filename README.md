@@ -14,8 +14,8 @@ The behavior of a component can be described by the business logic
 - If a number card has an even number double the base value
 - If a number card has an odd number half the base value
 
-1. Work out the Decision Table which represents this behavior and save your results in the 'Decision Table' tab of the 'TestCaseDesignTest.xlsx' spreadsheet contained in the test-case-design-test solution.
-2. Work out a set of physical test cases which would cover the scenarios derived in '1' and save your results in the 'Physical Test Cases' tab of the 'TestCaseDesignTest.xlsx' spreadsheet contained in the test-case-design-test solution.
+1. Work out the Decision Table (as f.e. described in the ISTQB Foundation curriculum) which represents this behavior and save your results in the 'Decision Table' tab of the 'TestCaseDesignTest.xlsx' spreadsheet contained in the test-case-design-test solution.
+2. Work out a set of physical test cases where each test case represents one of the scenarios derived in '1' and save your results in the 'Physical Test Cases' tab of the 'TestCaseDesignTest.xlsx' spreadsheet contained in the test-case-design-test solution.
 
 ----------------------------------------------------------------------------------
 HOW TO GET THE TECHNICAL TEST ON YOUR LOCAL SYSTEM:
